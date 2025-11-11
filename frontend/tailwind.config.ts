@@ -17,6 +17,13 @@ export default {
           500: '#0ea5e9',
           600: '#0284c7',
         },
+        brand: {
+          50: '#f5fbff',
+          100: '#e6f6ff',
+          300: '#8ed1ff',
+          500: '#0ea5e9',
+          700: '#0474b8',
+        },
         slateglass: 'rgba(15, 23, 42, 0.7)',
       },
       boxShadow: {
